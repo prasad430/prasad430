@@ -11,11 +11,23 @@ Most of what I work on sits at the seam between a model and a product: getting a
 **AI / ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black)
+![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-1A73E8?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square&logo=weaviate&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Techniques**
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A%20%C2%B7%20Agent--to--Agent-4B5563?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square&logoColor=white)
+![Tokenization](https://img.shields.io/badge/Tokenization-4B5563?style=flat-square&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-4B5563?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B5563?style=flat-square&logoColor=white)
 
 **Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
