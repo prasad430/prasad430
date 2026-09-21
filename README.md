@@ -1,6 +1,6 @@
 # Hi, I'm Durga Prasad 👋
 
-**AI / ML Engineer** — I build retrieval-augmented systems, NLP pipelines, and the full-stack apps that put them in front of real users.
+**Looking For AI&DATA Opportunities** — I build retrieval-augmented systems, NLP pipelines, and the full-stack apps that put them in front of real users.
 
 Most of what I work on sits at the seam between a model and a product: getting an LLM to answer from *your* documents instead of guessing, scoring resumes against a job description with BERT, or turning a mailbox full of shipping notices into a clean spreadsheet.
 
